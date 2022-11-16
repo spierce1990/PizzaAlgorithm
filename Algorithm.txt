@@ -6,3 +6,4 @@
 6. Wait for Pizza delivery
 7. Eat Pizza
 8. Put Pizza in the fridge
+9. Eat leftovers the next day
